@@ -1,0 +1,14 @@
+[Sun Jun 04 01:52:40.904165 2023] [fcgid:warn] [pid 20788:tid 1364] (OS 109)The pipe has been ended.  : [client 127.0.0.1:49567] mod_fcgid: get overlap result error
+[Sun Jun 04 01:52:40.905216 2023] [core:error] [pid 20788:tid 1364] [client 127.0.0.1:49567] End of script output before headers: admin-ajax.php
+[Sun Jun 04 01:52:40.944121 2023] [fcgid:warn] [pid 20788:tid 1348] (OS 109)The pipe has been ended.  : [client 127.0.0.1:49701] mod_fcgid: get overlap result error
+[Sun Jun 04 01:52:40.944121 2023] [core:error] [pid 20788:tid 1348] [client 127.0.0.1:49701] End of script output before headers: index.php
+[Sun Jun 04 01:58:09.064145 2023] [fcgid:warn] [pid 18612:tid 1380] [client 127.0.0.1:52236] mod_fcgid: read timeout from pipe
+[Sun Jun 04 01:58:09.064145 2023] [core:error] [pid 18612:tid 1380] [client 127.0.0.1:52236] End of script output before headers: wp-cron.php
+[Sun Jun 04 02:03:09.639143 2023] [fcgid:warn] [pid 18612:tid 1380] [client 127.0.0.1:55083] mod_fcgid: read timeout from pipe
+[Sun Jun 04 02:03:09.639143 2023] [core:error] [pid 18612:tid 1380] [client 127.0.0.1:55083] End of script output before headers: wp-cron.php
+[Sun Jun 04 08:17:33.421751 2023] [fcgid:warn] [pid 18612:tid 1384] [client 127.0.0.1:50227] mod_fcgid: read timeout from pipe
+[Sun Jun 04 08:17:33.421751 2023] [core:error] [pid 18612:tid 1384] [client 127.0.0.1:50227] End of script output before headers: admin-ajax.php
+[Sun Jun 04 08:22:33.174908 2023] [fcgid:warn] [pid 18612:tid 1368] [client 127.0.0.1:53183] mod_fcgid: read timeout from pipe
+[Sun Jun 04 08:22:33.174908 2023] [core:error] [pid 18612:tid 1368] [client 127.0.0.1:53183] End of script output before headers: wp-cron.php
+[Sun Jun 04 08:27:33.304563 2023] [fcgid:warn] [pid 18612:tid 1364] [client 127.0.0.1:56256] mod_fcgid: read timeout from pipe
+[Sun Jun 04 08:27:33.304563 2023] [core:error] [pid 18612:tid 1364] [client 127.0.0.1:56256] End of script output before headers: wp-cron.php
